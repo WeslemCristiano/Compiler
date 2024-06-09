@@ -1,0 +1,12 @@
+2+2
+x = 4+4
+x+y
+y
+
+Gramatica
+cmd : atrib
+| expr
+
+atrib : VAR '=' expr
+expr : term rest
+expr : term '+'expr

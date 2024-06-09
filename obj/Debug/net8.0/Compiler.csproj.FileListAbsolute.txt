@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\obj\Debug\net8.0\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfo.cs
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\obj\Debug\net8.0\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\bin\Debug\net8.0\Compiler.exe
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\bin\Debug\net8.0\Compiler.deps.json
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\bin\Debug\net8.0\Compiler.runtimeconfig.json
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\bin\Debug\net8.0\Compiler.dll
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\bin\Debug\net8.0\Compiler.pdb
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\obj\Debug\net8.0\Compiler.dll
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\obj\Debug\net8.0\refint\Compiler.dll
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\obj\Debug\net8.0\Compiler.pdb
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\obj\Debug\net8.0\Compiler.genruntimeconfig.cache
+C:\Users\User\Documents\Aulas\Curso-C#\Compiler\obj\Debug\net8.0\ref\Compiler.dll
